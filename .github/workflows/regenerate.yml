@@ -8,6 +8,8 @@ jobs:
   generate:
     name: Regenerate PluginMaster
     runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
     steps:
       - uses: actions/setup-python@v2
         with:
@@ -20,7 +22,4 @@ jobs:
           author_name: GitHub Action
           author_email: github-actions[bot]@users.noreply.github.com
           message: Regenerate PluginMaster
-      - uses: appleboy/discord-action@master
-        with:
-          webhook_id: ${{ secrets.WEBHOOK_ID }}
-          webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
+      - uses: Ilshidur/action-discord@master
