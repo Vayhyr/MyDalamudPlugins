@@ -1,0 +1,11 @@
+{
+  "Author": "Vayhyr, ZM, attick, daemitus",
+  "Name": "XIV Combo - Vayhyr Edition",
+  "InternalName": "XIVComboVayhyr",
+  "AssemblyVersion": "1.1.0.1",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Vayhyr/XIVComboPlugin",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
