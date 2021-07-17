@@ -1,3 +1,3 @@
-Grammernatzi's Dalamud Plugins
+Vayhyr Dalamud Plugins
 
-Drop `https://github.com/grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json` into your third party repo URL list.
+Drop `https://github.com/Vayhyr/MyDalamudPlugins/raw/master/pluginmaster.json` into your third party repo URL list.
