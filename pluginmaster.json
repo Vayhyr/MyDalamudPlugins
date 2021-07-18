@@ -14,6 +14,29 @@
         "DownloadLinkTesting": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626551258"
+        "LastUpdated": "1626569445"
+    },
+    {
+        "Author": "vayhyr",
+        "Name": "Stylish",
+        "Description": "Change and save Dalamud UI style with ease. /stylish to open the menu.",
+        "InternalName": "Stylish",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Vayhyr/Stylish",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "css",
+            "stylish",
+            "style",
+            "UI"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/Stylish/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/Stylish/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/Stylish/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1626569445"
     }
 ]
