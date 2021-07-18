@@ -1,0 +1,17 @@
+{
+  "Author": "vayhyr",
+  "Name": "Stylish",
+  "InternalName": "Stylish",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Change and save Dalamud UI style with ease. /stylish to open the menu.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Vayhyr/Stylish",
+  "Tags": [
+    "css",
+    "stylish",
+    "style",
+    "UI"
+  ],
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
