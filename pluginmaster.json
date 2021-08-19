@@ -1,22 +1,5 @@
 [
     {
-        "Author": "Vayhyr, ZM, attick, daemitus",
-        "Name": "XIV Combo - Vayhyr Edition",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
-        "InternalName": "XIVComboVayhyr",
-        "AssemblyVersion": "1.1.0.2",
-        "RepoUrl": "https://github.com/Vayhyr/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1626574050"
-    },
-    {
         "Author": "vayhyr",
         "Name": "Stylish",
         "Description": "Change and save Dalamud UI style with ease. /stylish to open the menu.",
@@ -37,6 +20,23 @@
         "DownloadLinkTesting": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/Stylish/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/Stylish/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1626574050"
+        "LastUpdated": "1629374626"
+    },
+    {
+        "Author": "Vayhyr, ZM, attick, daemitus",
+        "Name": "XIV Combo - Vayhyr Edition",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+        "InternalName": "XIVComboVayhyr",
+        "AssemblyVersion": "1.1.0.2",
+        "RepoUrl": "https://github.com/Vayhyr/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Vayhyr/MyDalamudPlugins/raw/master/plugins/XIVComboVayhyr/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1629374626"
     }
 ]
